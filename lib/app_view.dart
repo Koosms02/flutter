@@ -1,0 +1,1 @@
+//class that will check if the use has an account or not , and load data based on that

@@ -1,0 +1,5 @@
+today 
+    making the module container work 
+    being able to add and delete things from list of modules
+    making the bloc for the folder 
+    implimenting the favorite page 
